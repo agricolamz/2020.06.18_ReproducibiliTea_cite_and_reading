@@ -1,5 +1,5 @@
 ---
-title: "An introduction to the theory of citing by M. V. Simkin and V. P. Roychowdhury"
+title: "An introduction to the theory of citing by Simkin and Roychowdhury"
 author: "Г. Мороз"
 date: 18 июля 2020, ReproducibiliTea, Москва
 output: 
